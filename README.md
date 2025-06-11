@@ -11,7 +11,7 @@ Exist on Modrinth link: https://modrinth.com/mod/intellium
 
 ## Installation
 - Place the mod jar in your `mods` folder.
-- Requires Fabric Loader 0.16.14 and Fabric API 0.124.0+.
+- Requires Fabric Loader 0.16.14, Fabric API 0.124.0+, Cloth Config API 18.0.145+ and Mod Menu 14.0.0-rc.2.
 
 ## License
 
